@@ -1,0 +1,6 @@
+{
+  "name": "AppMatrix Pro",
+  "description": "Comprehensive Android application manager to inspect permissions, filter, search, extract APKs, and manage installed applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
